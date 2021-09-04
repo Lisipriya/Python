@@ -1,0 +1,21 @@
+product_list = [
+  'Paintings',
+  'Antique watch',
+  'Wall hangings',
+  'Mobile',
+  'Garamaphone',
+  'car',
+  'bike',
+  'cycle',
+  'Spectacles',
+  'furniture',
+  'sofa',
+  'air purifier',
+  'television',
+  'air conditioner',
+  'bed',
+  'fridge',
+  'old coins',
+  'stamps',
+  'jewellery' 
+]
