@@ -1,6 +1,7 @@
+import time
 from turtle import Turtle
 
-STARTING_POSITIONS = [(0, 0), (-20, 0), (-40, 0)]
+STARTING_POSITIONS = [(0, 0), (-20, 0), (-40, 0), (-60, 0)]
 MOVE_FORWARD = 20
 UP = 90
 DOWN = 270
@@ -16,16 +17,23 @@ class Snake:
 
     def create_snake(self):
         for position in STARTING_POSITIONS:
-            new_snake = Turtle(shape="square")
-            new_snake.color("white")
-            new_snake.penup()
-            new_snake.goto(position)
-            self.snakes.append(new_snake)
+            self.add_segments(position)
+
+    def add_segments(self, position):
+        new_snake = Turtle(shape="square")
+        new_snake.color("white")
+        new_snake.penup()
+        new_snake.goto(position)
+        self.snakes.append(new_snake)
+
+    def extend_segment(self):
+        self.add_segments(self.snakes[-1].position())
 
     def move(self):
         for segment in range(len(self.snakes) - 1, 0, -1):
             x_coordinate = self.snakes[segment - 1].xcor()
             y_coordinate = self.snakes[segment - 1].ycor()
+            time.sleep(0.01)
             self.snakes[segment].goto(x_coordinate, y_coordinate)
         self.snakes[0].forward(MOVE_FORWARD)
 
