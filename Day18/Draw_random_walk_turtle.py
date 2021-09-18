@@ -19,7 +19,7 @@ def random_direction():
 
 
 colormode(255)
-num_of_movement = 3
+num_of_movement = 0
 while num_of_movement < 250:
     coco.setheading(random_direction())
     coco.pensize(10)
