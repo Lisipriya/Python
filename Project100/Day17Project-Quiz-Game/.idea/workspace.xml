@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddd9f2fa-37d2-46b4-bec0-9c683a99f5c0" name="Changes" comment="" />
+    <list default="true" id="ddd9f2fa-37d2-46b4-bec0-9c683a99f5c0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Snake_Game/The_Snack_Game.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake_Game/food.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake_Game/scoreboard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake_Game/snake.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +24,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Solution+-+pong-game-final" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
