@@ -1,0 +1,9 @@
+Microsoft.com | test@gmail.com | 1234567
+Amazon | test@gmail.com | 34567
+Flipkart | test@gmail.com | 1290
+amazon | test@gmail.com | 12345
+value | test@gmail.com | asdfg
+abc | test@gmail.com | 1234
+abc | test@gmail.com | dS5*%E1A7EN&iv0$j
+ | test@gmail.com | 
+ | test@gmail.com | 
