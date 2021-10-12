@@ -2,25 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afa260b9-573e-4a73-b1d1-83d76ac10fee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Day37Project_Habit_tracker/Python_challenge_tracker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day37Project_Habit_tracker/image/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day37Project_Habit_tracker/image/card_back.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day37Project_Habit_tracker/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/environment.env.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/environments.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day33Project_ISS_Notifier_Project/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day33Project_ISS_Notifier_Project/.idea/Day33Project_ISS_Notifier_Project.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day33Project_ISS_Notifier_Project/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day33Project_ISS_Notifier_Project/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day33Project_ISS_Notifier_Project/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day33Project_ISS_Notifier_Project/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day34Project_Quizzler_App/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day34Project_Quizzler_App/.idea/Day34Project_Quizzler_App.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day34Project_Quizzler_App/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day34Project_Quizzler_App/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day34Project_Quizzler_App/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day34Project_Quizzler_App/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day13Project_Debugging_multiple_problems.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day1ProjectBandNameGenrator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day2ProjectTipCalculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day3ProjectTreasurehunt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day4Projectrockpaperscissor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day5ProjectPasswordGenerator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day6Project_Robot_Maze.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +36,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/environments.env" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Day39Project_Capstone_I" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -106,5 +95,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
