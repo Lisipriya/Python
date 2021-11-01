@@ -4,7 +4,7 @@ from selenium import webdriver
 
 chrome_drive_path = "C:\\Users\\lisipriya\Python\\Chrome\\chromedriver.exe"
 driver = webdriver.Chrome(executable_path=chrome_drive_path)
-# driver.maximize_window()
+driver.maximize_window()
 driver.get("http://orteil.dashnet.org/experiments/cookie/")
 
 #Get cookie to click on.
